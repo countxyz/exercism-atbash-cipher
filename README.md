@@ -15,8 +15,6 @@ An Atbash cipher for the Latin alphabet would be as follows:
 
 Plain:  abcdefghijklmnopqrstuvwxyz
 
-<br>
-
 Cipher: zyxwvutsrqponmlkjihgfedcba
 
 <br>

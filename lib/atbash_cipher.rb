@@ -19,6 +19,8 @@ class AtbashCipher
     @substitution.size > 5 ? long_decode_format : short_decode_format
   end
 
+  private
+
   def short_decode_format
     @substitution.join
   end

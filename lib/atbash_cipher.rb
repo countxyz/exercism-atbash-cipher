@@ -12,4 +12,9 @@ class AtbashCipher
     @string.map! { |char| @cipher[char.to_sym] }
     @string.join
   end
+
+  def decode
+    @string.map! { |char| @cipher.key char }
+    @string.join
+  end
 end

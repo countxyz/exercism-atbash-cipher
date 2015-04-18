@@ -14,7 +14,13 @@ and so on.
 An Atbash cipher for the Latin alphabet would be as follows:
 
 Plain:  abcdefghijklmnopqrstuvwxyz
+
+<br>
+
 Cipher: zyxwvutsrqponmlkjihgfedcba
+
+<br>
+
 It is a very weak cipher because it only has one possible key, and it is a
 simple monoalphabetic substitution cipher. However, this may not have been an
 issue in the cipher's time.
